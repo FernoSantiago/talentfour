@@ -4,11 +4,11 @@
 
 ## Descrição do Projeto
 
-Foi criado um projeto Maven utilizando Cucumber, Selenium e Junit.
+* Foi criado um projeto Maven utilizando Cucumber, Selenium e Junit.
 
 ## Instalação
 
-Informações de como executar o projeto e funções do Talentfour.
+Informações de como executar o projeto e funções do Talentfour:
 
 * [Eclipse](http://www.eclipse.org/): Versão utilizada - Mars.1 Release (4.5.1
 Assim que o download for concluído, execute-o para iniciar a instalação. Siga os passos apresentados pelo instalador.
@@ -20,7 +20,7 @@ Assim que o download for concluído, execute-o para iniciar a instalação. Siga
 
 * Realizada a instalação das Ferramentas de Instalação, o projeto Talentfour deve ser sincronizado no diretório rais da estação de trabalho.
 
-Para realizar a execução do cenário de teste utilizando cucumber, deve-se acessar a classe HomeLtdTest.java e executar utilizando Junit (Run As > Junit Test)
+* Para realizar a execução do cenário de teste utilizando cucumber, deve-se acessar a classe HomeLtdTest.java e executar utilizando Junit (Run As > Junit Test)
 
 ## Pastas e Diretórios
 
@@ -33,7 +33,7 @@ No projeto de testes, os diterórios de testes estão localizados em:
 
 ## Documentação
 
-Informações de como usar as classes e funções do Talentfour na [Wiki Oficial](https://github.com/FernoSantiago/talentfour/wiki)
+* Informações de como usar as classes e funções do Talentfour na [Wiki Oficial](https://github.com/FernoSantiago/talentfour/wiki)
 
 ## Referências
 
