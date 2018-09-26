@@ -28,11 +28,11 @@ No projeto de testes, os diterórios de testes estão localizados em:
 
 * Testes da página para criar uma nova [Conta Gmail] (https://accounts.google.com/signup/).
 
-/talentfour/src/test/java/test/HomeLtdTest.java
+/talentfour/src/test/java/test/IndexEmailTest.java
 
 * Coleta de logs.
 
-/talentfour/src/test/java/test/ReportUtils.java
+/talentfour/src/test/java/test/ReportRules.java
 
 
 ## Documentação
