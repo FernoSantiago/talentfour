@@ -1,4 +1,4 @@
-# AppTalentfour
+# Talentfour
 
 * [GitHub](https://github.com/FernoSantiago/talentfour)
 
