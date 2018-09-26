@@ -6,9 +6,9 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 
-import interactions.HomeLtdMap;
+import interactions.IndexEmailMap;
 
-public class HomeLtdPage extends HomeLtdMap {
+public class IndexEmailPage extends IndexEmailMap {
 
 	private static WebDriver driver;
 	private StringBuffer verificationErrors = new StringBuffer();

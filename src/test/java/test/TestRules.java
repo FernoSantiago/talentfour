@@ -13,7 +13,7 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
-public class TestRule {
+public class TestRules {
 
 	private static WebDriver driver;
 	private static ExtentHtmlReporter htmlReporter;

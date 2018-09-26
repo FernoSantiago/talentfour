@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/java/feature/HomeLtd.feature", glue = { "" }, monochrome = true, dryRun = false)
 
-public class HomeLtdTest {
+public class IndexEmailTest {
 	
 
 }

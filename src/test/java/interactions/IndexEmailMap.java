@@ -2,7 +2,7 @@ package interactions;
 
 import org.openqa.selenium.WebElement;
 
-public class HomeLtdMap {
+public class IndexEmailMap {
 	
 	protected WebElement firstName;
 	protected WebElement lastName;
