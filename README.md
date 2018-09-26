@@ -26,9 +26,13 @@ Assim que o download for concluído, execute-o para iniciar a instalação. Siga
 
 No projeto de testes, os diterórios de testes estão localizados em:
 
-* Testes da página para criar uma nova [Conta Gmail] (https://accounts.google.com/signup/)
+* Testes da página para criar uma nova [Conta Gmail] (https://accounts.google.com/signup/).
 
 /talentfour/src/test/java/test/HomeLtdTest.java
+
+* Coleta de logs.
+
+/talentfour/src/test/java/test/ReportUtils.java
 
 
 ## Documentação
