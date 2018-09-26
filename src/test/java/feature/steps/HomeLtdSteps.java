@@ -6,6 +6,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import pages.HomeLtdPage;
+import test.ReportUtils;
 
 @CucumberOptions(features = "feature", glue = { "StepDefinition" })
 
@@ -147,6 +148,7 @@ public class HomeLtdSteps {
 	public void confirmMessage() {
 		HomeLtdPage homeLtrPage = new HomeLtdPage();
 		homeLtrPage.confirmMessage();
+		ReportUtils.logPrint("Acount Gmail");
 
 	}
 
